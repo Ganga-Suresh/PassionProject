@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|d:\\webdev\\sem2\\backend\\passionproject\\financetrackerproject\\financetrackerproject\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|solutionrelative:financetrackerproject\\models\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|d:\\webdev\\sem2\\backend\\passionproject\\financetrackerproject\\financetrackerproject\\migrations\\202406210447542_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|solutionrelative:financetrackerproject\\migrations\\202406210447542_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|d:\\webdev\\sem2\\backend\\passionproject\\financetrackerproject\\financetrackerproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|solutionrelative:financetrackerproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|d:\\webdev\\sem2\\backend\\passionproject\\financetrackerproject\\financetrackerproject\\controllers\\reminderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|solutionrelative:financetrackerproject\\controllers\\reminderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|d:\\webdev\\sem2\\backend\\passionproject\\financetrackerproject\\financetrackerproject\\views\\reminders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|solutionrelative:financetrackerproject\\views\\reminders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|d:\\webdev\\sem2\\backend\\passionproject\\financetrackerproject\\financetrackerproject\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75924D9-B65C-417C-B113-6945C1BAEB7A}|FinanceTrackerProject\\FinanceTrackerProject.csproj|solutionrelative:financetrackerproject\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202406210447542_InitialCreate.cs",
+              "DocumentMoniker": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Migrations\\202406210447542_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FinanceTrackerProject\\Migrations\\202406210447542_InitialCreate.cs",
+              "ToolTip": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Migrations\\202406210447542_InitialCreate.cs",
+              "RelativeToolTip": "FinanceTrackerProject\\Migrations\\202406210447542_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:27:44.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "FinanceTrackerProject\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "FinanceTrackerProject\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:26:13.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Models\\Reminder.cs",
+              "RelativeDocumentMoniker": "FinanceTrackerProject\\Models\\Reminder.cs",
+              "ToolTip": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Models\\Reminder.cs",
+              "RelativeToolTip": "FinanceTrackerProject\\Models\\Reminder.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:21:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Views\\Reminders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FinanceTrackerProject\\Views\\Reminders\\Delete.cshtml",
+              "ToolTip": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Views\\Reminders\\Delete.cshtml",
+              "RelativeToolTip": "FinanceTrackerProject\\Views\\Reminders\\Delete.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:47:06.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemindersController.cs",
+              "DocumentMoniker": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Controllers\\RemindersController.cs",
+              "RelativeDocumentMoniker": "FinanceTrackerProject\\Controllers\\RemindersController.cs",
+              "ToolTip": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Controllers\\RemindersController.cs",
+              "RelativeToolTip": "FinanceTrackerProject\\Controllers\\RemindersController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAEwEwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:30:33.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "FinanceTrackerProject\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\WebDev\\Sem2\\backend\\passionproject\\FinanceTrackerProject\\FinanceTrackerProject\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "FinanceTrackerProject\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T05:45:43.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
