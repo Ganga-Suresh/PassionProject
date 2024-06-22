@@ -1,0 +1,39 @@
+﻿<!-- Index.cshtml -->
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <div class="jumbotron">
+        <h1 class="display-4">Welcome to Finance Tracker!</h1>
+        <p class="lead">Manage your finances with ease.</p>
+        <hr class="my-4">
+        <p>Track income and expenses, set saving goals, manage reminders, and view profit/loss.</p>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Get Started</a>
+        <a class="btn btn-outline-primary btn-lg ml-2" asp-area="" asp-controller="Account" asp-action="Register">Sign Up</a>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Track Income and Expenses</h3>
+            <p>Enter your daily income and expenses to manage your finances effectively.</p>
+        </div>
+        <div class="col-md-6">
+            <h3>Set Saving Goals</h3>
+            <p>Plan and track your savings goals to achieve financial milestones.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Manage Reminders</h3>
+            <p>Set bill payment reminders to ensure timely payments.</p>
+        </div>
+        <div class="col-md-6">
+            <h3>View Profit/Loss</h3>
+            <p>Visualize your financial performance with profit/loss graphs.</p>
+        </div>
+    </div>
+</div>
+

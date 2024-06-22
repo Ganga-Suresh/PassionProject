@@ -1,0 +1,38 @@
+﻿/* wwwroot/css/site.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2rem;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+    .jumbotron h1, .jumbotron p {
+        color: #fff;
+    }
+
+.btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+    .btn-primary:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+    }

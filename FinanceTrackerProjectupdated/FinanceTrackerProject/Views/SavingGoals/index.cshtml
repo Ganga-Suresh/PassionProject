@@ -1,0 +1,47 @@
+﻿@model IEnumerable<FinanceTrackerProject.Models.SavingGoal>
+
+@{
+    ViewBag.Title = "Saving Goals";
+}
+
+<h2>Saving Goals</h2>
+
+<p>
+    @Html.ActionLink("Create New Goal", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TargetAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TargetDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CurrentAmount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TargetAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TargetDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CurrentAmount)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.SavingGoalId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.SavingGoalId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

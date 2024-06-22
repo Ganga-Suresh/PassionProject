@@ -1,0 +1,30 @@
+﻿@model IEnumerable<FinanceTrackerProject.Models.Transaction>
+@{
+    ViewBag.Title = "Profit/Loss Graph";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<canvas id="profitLossChart" width="400" height="200"></canvas>
+<script>
+    var ctx = document.getElementById('profitLossChart').getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: @Html.Raw(ViewBag.Labels),
+            datasets: [{
+                label: 'Profit/Loss',
+                data: @Html.Raw(ViewBag.Data),
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
